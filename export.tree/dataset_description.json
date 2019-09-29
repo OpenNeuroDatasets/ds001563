@@ -1,9 +1,0 @@
-{
-    "Name": "WIN-open-science-example",
-    "BIDSVersion": "1.2.1",
-    "Authors": [
-        "Taylor Hanayik"
-    ],
-    "License": "CC0",
-    "DatasetDOI": "mockDOI"
-}
