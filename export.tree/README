@@ -1,0 +1,3 @@
+# Example WIN Open Science Dataset
+
+This dataset (one subject, with one T1w image) has been put on openneuro.org as an example. The dataset ID can be stored in a script which can allow others to quickly copy an analysis and even download the original data. 
